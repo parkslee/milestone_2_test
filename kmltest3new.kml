@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>
+          <h1>No recording</h1>
+      </name>
+      <description>
+              <![CDATA[
+    <a href="./norecording.html">No Recording Studio</a>
+              ]]>
+      </description>
+      <Point>
+        <coordinates>0.605178900000055,51.6061977,0</coordinates>
+      </Point>
+    </Placemark>
+
+     <Placemark>
+       <name>
+          <h1>creative</h1>
+      </name>
+       <description><a>Creative Music Studios</a></description>
+        
+        <Point>
+          <coordinates>
+            0.361499999999978,51.561398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+   
+  </Document>
+</kml>

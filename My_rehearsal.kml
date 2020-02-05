@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>My_rehearsal</name>
+    <description>rehearsal studios uk</description>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+
+    <Placemark>
+    <name>Google West Campus 1</name>
+    <styleUrl>#west_campus_style</styleUrl>
+    <ExtendedData>
+      <Data name="video">
+        <value><![CDATA[<iframe width="640" height="360"
+          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+          allowfullscreen></iframe><br><br>]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-122.0914977709329,37.42390182131783,0</coordinates>
+    </Point>
+</Placemark>
+
+      <name>Rehearsal studios</name>
+      <Placemark>
+        <name href="./studio_1.html">Rocket Park Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.263255100000038,52.5929185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strongroom Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0801099999999906,51.525958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Headline Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0735515999999734,52.1429983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bush Studios Ltd</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.226247000000058,51.5056228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirate Studios - Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0283592000000681,51.4904833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westbourne Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.191104900000028,51.5208865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sickroom Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.575607399999967,52.6896016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rhinocorn Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.148356400000011,52.2147136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plug Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.28370840000002,52.6378916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rehearsal Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.711571700000036,52.2425465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rehearsal Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.711571700000036,52.2425465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodshack Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.12040649999994,52.5711639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flightpath Rehearsal Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.19295980000004,52.2120286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sickroom Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.575607399999967,52.6896016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rhinocorn Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.148356400000011,52.2147136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lock Up Cambridge Music Rehearsal Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.160633999999959,52.223815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sham Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0219190000000253,52.398615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plug Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.28370840000002,52.6378916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Headline Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0735515999999734,52.1429983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cold Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.199198000000024,52.3512615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Shrubbery Recording Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.724185199999965,52.2492995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMac Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.49628800000005,52.3086988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wilde Rose Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.583606300000042,52.5409929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soundz Wicked Productions</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.698329000000058,52.247687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Academic Music Productions</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.814287199999967,52.2493631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mother Lode Recording Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.249024999999961,52.521467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loderunner Recording Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.244634700000006,52.2413283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mill</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.1018368,52.4231483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monkey Puzzle House Residential Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.901316599999973,52.2185196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sickroom Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.575607399999967,52.6896016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rehearsal Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.711571700000036,52.2425465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flightpath Rehearsal Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.19295980000004,52.2120286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rhinocorn Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.148356400000011,52.2147136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodshack Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.12040649999994,52.5711639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cold Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.199198000000024,52.3512615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plug Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.28370840000002,52.6378916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sham Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0219190000000253,52.398615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherry Gardens Studios Rehearsal Room</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.442487600000049,52.0720664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lock Up Cambridge Music Rehearsal Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.160633999999959,52.223815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rocket Park Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.263255100000038,52.5929185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Music Wales Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.67483689999995,51.5266757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[KBSW Stiwdio Un / Studio One / Residential Recording & Rehearsal Music Studio, North Wales]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05969140000002,53.1917323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Musicbox Studios Ltd</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.19825839999999,51.4598168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNIT40 RECORDING/REHEARSAL STUDIOS</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.32252199999994,51.627748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Music Mine Studios Recording and Rehearsal Rooms Music Lessons</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.29881399999999,53.330363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirate Studios - Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.17902749999996,51.4690732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cardiff Arches</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.1731264,51.4765765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riverside Rehearsal Rooms, Liverpool</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.89840800000002,53.3438685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Resonance Music Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.59529989999999,51.4982452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panic Promotions</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.00542829999995,53.2149245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K J M Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.72944540000003,52.0616056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cobnash Recording Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.80865259999996,52.2386464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soundscape Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.80449010000007,52.7156608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LCD Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.73216309999998,52.7268683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Audio XL</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.77281779999998,52.695162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robannas Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.89649699999995,52.48845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirate Studios - Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.87911499999996,52.4740056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPRAWR Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.90253299999995,52.4884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Oxygen Rooms</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.90956600000004,52.4915871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>So Called Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.82123890000003,52.4477181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercury Music Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.93128300000001,52.412488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RB Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.92390390000003,52.4165003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muthers Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.89059410000004,52.4713192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hockley Street Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.90880779999998,52.4909466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>moseley rehearsals</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.88947210000003,52.4553273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rehearsal Space London</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.025810999999976,51.481511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strummers Studios - Rehearsal, Recording and Backline Hire</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.111200999999937,51.5508259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apollo Studio London</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.091101999999978,51.576354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Rehearsal Space</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0903716000000259,51.5212975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westbourne Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.191104900000028,51.5208865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirate Studios - Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0283592000000681,51.4904833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Engine Rooms Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0229888000000074,51.5238422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vatican Rehearsal and Recording Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.048106999999959,51.525887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirate Studios - Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.190747999999985,51.446809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bush Studios Ltd</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.226247000000058,51.5056228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NSP Recording and Rehearsal Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.527525999999966,51.22955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ebbsfleet Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.316181599999936,51.4502713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sunlight Recording & Rehearsal Studio]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.550517600000035,51.3931849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aardvark Music Services-Rehearsal Room and Recording Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.99496529999999,51.3210928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fort Rehearsal and Recording Studio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.512423200000057,51.3581029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swanley Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.18151499999999,51.404508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dover Rehearsal Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.31091939999999,51.1325951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Riverside Rehearsal Studios & Drumzone Shop]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.216518899999983,51.4504732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langlei Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.597627099999954,51.33527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orange Studios</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.525056100000029,51.2839837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
